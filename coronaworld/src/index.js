@@ -142,7 +142,7 @@ define(['./src/Loaders.js', './src/EarthObject.js', './src/BottomSide.js', './sr
     scene.add(earth);
     global.earth = earth;
 
-    var fakeData = Loaders.getJSON("dataForHenry.json");
+    var fakeData = Loaders.getJSON("test.json");//dataForHenry.json
     console.log(fakeData);
     for (var i in fakeData.events) {
       earth.addEvent(fakeData.events[i]);
