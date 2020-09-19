@@ -343,7 +343,7 @@ define(["exports"], function (exports) {
                 React.createElement(
                   "p",
                   null,
-                  "Made by Aris Koumis and Henry Tran."
+                  "Made with love"
                 )
               );
             }
