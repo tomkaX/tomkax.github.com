@@ -1,1 +1,5 @@
-# ariskoumis.github.com
+# Corona world project for HackZurich 
+
+#12 CORONA SCARE APPLICATION
+SRF SWISS RADIO AND TV
+The corona pandemic map of Johns Hopkins university is well known. We would like to go a step beyond and find a way to map the impact of the virus on people's emotions: How upset are they? How threatened do they feel, how scared? Assuming that there is a correlation between how scared people are and how many news (faked or real news) are posted around them, we define the "Corona Scare Level" in an area as proportional to the number of corona related news that pop up in that same area. Your challenge is to develop a "Corona Scare Application" that will display a map with the (almost) real-time "Corona Scare Level" status of an area. To do so, you will have to (1) ingest news data and data from social media channels, (2) parse them for any "corona" relation, (3) add localization metadata, (4) calculate the "Corona Scare Level" and (5) plot the result on a map in a reasonable and descriptive way. In order to kickstart your work, we will provide news dumps from various Swiss news sources.
